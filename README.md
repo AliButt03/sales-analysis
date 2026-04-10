@@ -87,7 +87,7 @@ sales-analysis-powerbi/
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
 
 ---
 
